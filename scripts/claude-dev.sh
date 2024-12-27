@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/google-chrome --profile-directory="Default" --new-window "https://claude.ai"
+/usr/bin/google-chrome --profile-directory="Profile 10" --new-window "https://claude.ai"
