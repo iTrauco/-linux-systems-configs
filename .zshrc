@@ -112,3 +112,5 @@ source ~/miniconda3/etc/profile.d/conda.sh
 
 focus() { if [ "$1" = "on" ]; then xfconf-query -c xfwm4 -p /general/click_to_focus -s true && xfwm4 --replace &; elif [ "$1" = "off" ]; then xfconf-query -c xfwm4 -p /general/click_to_focus -s false && xfwm4 --replace &; else echo "Usage: focus on|off"; fi; }
 alias config='/usr/bin/git --git-dir=/home/trauco/.cfg/ --work-tree=/home/trauco'
+alias 2ssh="print -z 'gcloud compute ssh rtmp-relay-vm-dev --zone us-central1-a'"
+alias pyup="python3 -m venv venv && source venv/bin/activate"
