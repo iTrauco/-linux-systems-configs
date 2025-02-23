@@ -1,0 +1,17 @@
+{
+  "name": "Turquoise Theme",
+  "version": "1.0",
+  "description": "Turquoise theme for Chrome",
+  "manifest_version": 3,
+  "theme": {
+    "colors": {
+      "frame": [0,204,153],
+      "toolbar": [0,204,153],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [200, 200, 200],
+      "bookmark_text": [255, 255, 255],
+      "ntp_background": [240, 240, 240],
+      "ntp_text": [50, 50, 50]
+    }
+  }
+}

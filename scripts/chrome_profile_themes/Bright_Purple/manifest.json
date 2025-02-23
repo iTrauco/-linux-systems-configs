@@ -1,0 +1,17 @@
+{
+  "name": "Bright_Purple Theme",
+  "version": "1.0",
+  "description": "Bright_Purple theme for Chrome",
+  "manifest_version": 3,
+  "theme": {
+    "colors": {
+      "frame": [204,51,255],
+      "toolbar": [204,51,255],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [200, 200, 200],
+      "bookmark_text": [255, 255, 255],
+      "ntp_background": [240, 240, 240],
+      "ntp_text": [50, 50, 50]
+    }
+  }
+}

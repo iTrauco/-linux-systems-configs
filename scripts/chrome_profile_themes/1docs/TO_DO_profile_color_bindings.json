@@ -1,0 +1,68 @@
+{
+    "profiles": {
+        "profile1": {
+            "color": "#FF3366",
+            "name": "Hot Pink"
+        },
+        "profile2": {
+            "color": "#33FF66",
+            "name": "Neon Green"
+        },
+        "profile3": {
+            "color": "#3366FF",
+            "name": "Electric Blue"
+        },
+        "profile4": {
+            "color": "#FF6633",
+            "name": "Bright Orange"
+        },
+        "profile5": {
+            "color": "#9933FF",
+            "name": "Purple"
+        },
+        "profile6": {
+            "color": "#33FFFF",
+            "name": "Cyan"
+        },
+        "profile7": {
+            "color": "#FFFF33",
+            "name": "Yellow"
+        },
+        "profile8": {
+            "color": "#FF33FF",
+            "name": "Magenta"
+        },
+        "profile9": {
+            "color": "#00CC99",
+            "name": "Turquoise"
+        },
+        "profile10": {
+            "color": "#FF4400",
+            "name": "Red Orange"
+        },
+        "profile11": {
+            "color": "#6633FF",
+            "name": "Indigo"
+        },
+        "profile12": {
+            "color": "#FF9933",
+            "name": "Light Orange"
+        },
+        "profile13": {
+            "color": "#00FFCC",
+            "name": "Aqua"
+        },
+        "profile14": {
+            "color": "#CC33FF",
+            "name": "Bright Purple"
+        },
+        "profile15": {
+            "color": "#3399FF",
+            "name": "Sky Blue"
+        },
+        "profile16": {
+            "color": "#FF3399",
+            "name": "Deep Pink"
+        }
+    }
+}

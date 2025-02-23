@@ -1,0 +1,17 @@
+{
+  "name": "Red_Orange Theme",
+  "version": "1.0",
+  "description": "Red_Orange theme for Chrome",
+  "manifest_version": 3,
+  "theme": {
+    "colors": {
+      "frame": [255,68,0],
+      "toolbar": [255,68,0],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [200, 200, 200],
+      "bookmark_text": [255, 255, 255],
+      "ntp_background": [240, 240, 240],
+      "ntp_text": [50, 50, 50]
+    }
+  }
+}
